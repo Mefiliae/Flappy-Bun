@@ -4,17 +4,8 @@
   "description": "",
   "main": "Index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Mefiliae/Flappy-Bun.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Mefiliae/Flappy-Bun/issues"
-  },
-  "homepage": "https://github.com/Mefiliae/Flappy-Bun#readme"
+  "licence": "",
+  "author": ""
 }
